@@ -7,7 +7,7 @@ A Neural Network-based Decision Support System for Air Traffic Controllers.
 ## 📌 Project Overview
 Air Traffic Control (ATC) remains one of the most demanding manual tasks in modern aviation. Controllers manage complex, high-stakes environments where human error can have significant consequences. 
 
-**ATC healper** aims to bridge the gap between manual oversight and full automation. We are developing a specialized neural network architecture designed to assist controllers by:
+**ATC helper** aims to bridge the gap between manual oversight and full automation. We are developing a specialized neural network architecture designed to assist controllers by:
 * [..Do dopisania..]
 
 ## 🎓 Academic Context
