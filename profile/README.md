@@ -1,4 +1,4 @@
-# ATC healper ✈️🤖
+# ATC helper ✈️🤖
 
 A Neural Network-based Decision Support System for Air Traffic Controllers.
 
