@@ -16,7 +16,7 @@ Air Traffic Control (ATC) remains one of the most demanding manual tasks in mode
 * **Course:** Fundamentals of Information Theory
 * **Supervisor:** [prof. dr hab. inż. Artur Przelaskowski](https://www.ire.pw.edu.pl/~arturp/)
 * **Authors:**
-  - [Aduni0](https://github.com/Aduni0) - Andrzej Kłopocki
+  - [@Aduni0](https://github.com/Aduni0) - Andrzej Kłopocki
   - [@agniechaa](https://github.com/agniechaa) - Agniszka Kmiecik
   - [@basiag278-lang](https://github.com/basiag278-lang) - Basia Gruszka
   - [@gruszczrob](https://github.com/gruszczrob) - Robert Gruszczyński
@@ -24,7 +24,6 @@ Air Traffic Control (ATC) remains one of the most demanding manual tasks in mode
   - [@magdankox](https://github.com/magdankox) - Magda Bujok
   - [@mkosien](https://github.com/mkosien) - Maciej Kosień
   - [@olafdom](https://github.com/olafdom) - Olaf Domanski
-  - 
 
 ## 🛠 Tech Stack (Proposition)
 * **Language:** Python 3.10+
